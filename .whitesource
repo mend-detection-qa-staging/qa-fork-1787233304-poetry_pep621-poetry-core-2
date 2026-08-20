@@ -1,5 +1,4 @@
 {
-
   "scanSettings": {
     "configMode": "AUTO",
     "configExternalURL": "",
@@ -14,5 +13,13 @@
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
+  },
+  "scanSettingsSAST": {
+    "enableScan": false
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    }
   }
 }
